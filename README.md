@@ -41,5 +41,26 @@ It follows a simple structure :
    │  └─ app.module.ts
    └─ index.html
 ```
+# Quick start
 
+Clone this repo into new project folder (e.g., keep).
+
+```
+git clone https://github.com/jyoti-prakash-25/NoteMate
+```
+
+Install npm packages.
+
+```
+cd keep
+npm i
+```
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
